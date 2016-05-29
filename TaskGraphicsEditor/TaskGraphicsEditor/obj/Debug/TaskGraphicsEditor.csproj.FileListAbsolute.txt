@@ -1,0 +1,18 @@
+D:\Study\Graphics\PFSoft Task2\TaskGraphicsEditor\TaskGraphicsEditor\bin\Debug\TaskGraphicsEditor.exe.config
+D:\Study\Graphics\PFSoft Task2\TaskGraphicsEditor\TaskGraphicsEditor\bin\Debug\TaskGraphicsEditor.exe
+D:\Study\Graphics\PFSoft Task2\TaskGraphicsEditor\TaskGraphicsEditor\bin\Debug\TaskGraphicsEditor.pdb
+D:\Study\Graphics\PFSoft Task2\TaskGraphicsEditor\TaskGraphicsEditor\obj\Debug\TaskGraphicsEditor.csprojResolveAssemblyReference.cache
+D:\Study\Graphics\PFSoft Task2\TaskGraphicsEditor\TaskGraphicsEditor\obj\Debug\TaskGraphicsEditor.Form1.resources
+D:\Study\Graphics\PFSoft Task2\TaskGraphicsEditor\TaskGraphicsEditor\obj\Debug\TaskGraphicsEditor.Properties.Resources.resources
+D:\Study\Graphics\PFSoft Task2\TaskGraphicsEditor\TaskGraphicsEditor\obj\Debug\TaskGraphicsEditor.csproj.GenerateResource.Cache
+D:\Study\Graphics\PFSoft Task2\TaskGraphicsEditor\TaskGraphicsEditor\obj\Debug\TaskGraphicsEditor.exe
+D:\Study\Graphics\PFSoft Task2\TaskGraphicsEditor\TaskGraphicsEditor\obj\Debug\TaskGraphicsEditor.pdb
+D:\Study\Graphics\PFSoft\TaskGraphicsEditor\TaskGraphicsEditor\bin\Debug\TaskGraphicsEditor.exe.config
+D:\Study\Graphics\PFSoft\TaskGraphicsEditor\TaskGraphicsEditor\obj\Debug\TaskGraphicsEditor.exe
+D:\Study\Graphics\PFSoft\TaskGraphicsEditor\TaskGraphicsEditor\obj\Debug\TaskGraphicsEditor.pdb
+D:\Study\Graphics\PFSoft\TaskGraphicsEditor\TaskGraphicsEditor\bin\Debug\TaskGraphicsEditor.exe
+D:\Study\Graphics\PFSoft\TaskGraphicsEditor\TaskGraphicsEditor\bin\Debug\TaskGraphicsEditor.pdb
+D:\Study\Graphics\PFSoft\TaskGraphicsEditor\TaskGraphicsEditor\obj\Debug\TaskGraphicsEditor.Form1.resources
+D:\Study\Graphics\PFSoft\TaskGraphicsEditor\TaskGraphicsEditor\obj\Debug\TaskGraphicsEditor.Properties.Resources.resources
+D:\Study\Graphics\PFSoft\TaskGraphicsEditor\TaskGraphicsEditor\obj\Debug\TaskGraphicsEditor.csproj.GenerateResource.Cache
+D:\Study\Graphics\PFSoft\TaskGraphicsEditor\TaskGraphicsEditor\obj\Debug\TaskGraphicsEditor.csprojResolveAssemblyReference.cache
